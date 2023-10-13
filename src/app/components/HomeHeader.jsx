@@ -13,7 +13,7 @@ export default function HomeHeader() {
 
           <Link href = "https://image.google.com"
           className='hover:underline'>
-              Imgaes
+              Images
           </Link>
 
           <TbGridDots className = 'bg-transparent hover:bg-gray-200 rounded-full text-4xl p-2 '/>
